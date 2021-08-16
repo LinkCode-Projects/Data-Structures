@@ -284,3 +284,21 @@ input[type="text"]:focus{
     top:-00%;
     left:13%;
 }
+.extractHr{
+  transform: rotate(90deg);
+  background-color: #fff;
+}
+.center{
+  margin:auto;
+  width:fit-content;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  background-color:#0EC6D5;
+  border-radius: 40px!important;
+}
+.nav-link-custom{
+  margin:10px;
+  background-color: #F1F1F1;
+  border-radius:40px!important;
+  color:#979797;
+}
