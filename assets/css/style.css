@@ -307,3 +307,16 @@ input[type="text"]:focus{
   width:100%;
   padding:10%;
 }
+.jumbotron{
+  min-height:350px;
+}
+.rowoverlay{
+  position: absolute;
+  z-index:1;
+  top:50%;
+  left:10%;
+  right:10%;
+}
+.testimonials{
+  position:relative;
+}
