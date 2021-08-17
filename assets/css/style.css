@@ -302,3 +302,8 @@ input[type="text"]:focus{
   border-radius:40px!important;
   color:#979797;
 }
+.productDescription{
+  background-color: #FFF4F2;
+  width:100%;
+  padding:10%;
+}
