@@ -320,3 +320,15 @@ input[type="text"]:focus{
 .testimonials{
   position:relative;
 }
+.about{
+  position:relative;
+}
+.aboutRowoverlay{
+  position: absolute;
+  z-index:1;
+  top:50%;
+}
+.roundImage{
+  border-radius: 20px;
+  border:0px solid transparent;
+}
